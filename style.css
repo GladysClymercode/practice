@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(162, 213, 230); font-family: Arial, Helvetica, sans-serif;
+}
+div {
+    display: flex-direction: column;
+    align-items: center;
+    border: 5px solid #2c3e50;
+    padding: 20px;
+    margin: 20px
+}
+
+
+
+
+
+
